@@ -1,6 +1,5 @@
 #  WorldWind Stealer
 
-
 World wind first appeared in the cyber threat landscape in April 2020. In the new versions of the malware
 
 ## Builder
