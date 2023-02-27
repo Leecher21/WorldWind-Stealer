@@ -2,6 +2,7 @@
 
 World wind first appeared in the cyber threat landscape in April 2020. In the new versions of the malware
 
+
 ## Builder
 
 ![wordlswind logo](https://i.imgur.com/hEnlYM8_d.webp?maxwidth=760&fidelity=grand)
